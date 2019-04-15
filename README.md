@@ -3,11 +3,11 @@ This is a [mandelbrot generator](https://en.wikipedia.org/wiki/Mandelbrot_set) b
 
 ## Running the Application
 
-### * Linux
+* ### Linux
 make
 make clean
 ./mb
 
-### * Windows
+* ### Windows
 
 
