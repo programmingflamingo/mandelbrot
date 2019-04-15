@@ -1,12 +1,13 @@
 # Mandelbrot
+This is a [mandelbrot generator](https://en.wikipedia.org/wiki/Mandelbrot_set) built with ascii characters and C. 
 
-You can COMPILE with the command:
+## Running the Application
+
+### * Linux
 make
-
-If you want to CLEAN the result of the compilation:
 make clean
-
-You can RUN the executable file with the command:
 ./mb
+
+### * Windows
 
 
