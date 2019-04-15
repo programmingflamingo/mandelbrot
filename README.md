@@ -2,7 +2,6 @@
 This is a [mandelbrot generator](https://en.wikipedia.org/wiki/Mandelbrot_set) built with ascii characters and C. 
 
 ## Running the Application
-
 * ### Linux
 1. Install the application and open a terminal in the directory where the application is located.
 2. Use the "make" command to compile the program.
