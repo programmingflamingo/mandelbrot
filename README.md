@@ -5,7 +5,9 @@ This is a [mandelbrot generator](https://en.wikipedia.org/wiki/Mandelbrot_set) b
 
 * ### Linux
 make
+
 make clean
+
 ./mb
 
 * ### Windows
